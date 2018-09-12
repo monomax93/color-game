@@ -4,3 +4,5 @@ There are two game modes:
 
 easy: you only have 3 tiles to choose from
 hard: you have to guess color from 6 tiles
+
+![](colorgame.png?raw=true "Color game")
